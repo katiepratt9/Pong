@@ -9,8 +9,7 @@ Players compete on a single keyboard in a retro-style pong.
 - Local multiplayer (same keyboard)
 
 # How to Run
-1. Open the Pong.sln file using Visual Studio.
-Path: D:\Users\katie\Desktop\For Github\Pong\src\Game
+1. Open the Pong.sln file in the src/Game folder using Visual Studio.
 2. Build and run the project.
 
 #To Do
